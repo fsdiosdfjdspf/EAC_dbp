@@ -1,4 +1,4 @@
-name: CMake
+name: EAC_Bypass.sln
 
 on:
   push:
